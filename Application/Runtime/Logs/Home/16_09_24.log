@@ -1,0 +1,2743 @@
+[ 2016-09-24T00:43:34+08:00 ] 127.0.0.1 /ykj/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant hello - assumed 'hello' C:\AppServ\www\ykj\Application\Home\Controller\IndexController.class.php 第 6 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T02:10:05+08:00 ] 127.0.0.1 /ykj/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant hello - assumed 'hello' C:\AppServ\www\ykj\Application\Home\Controller\IndexController.class.php 第 6 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T11:57:37+08:00 ] 127.0.0.1 /ykj/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-24T11:58:10+08:00 ] 127.0.0.1 /ykj/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T11:59:48+08:00 ] 127.0.0.1 /ykj/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-24T12:01:26+08:00 ] 127.0.0.1 /ykj/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T13:30:22+08:00 ] 127.0.0.1 /ykj/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T15:38:30+08:00 ] 127.0.0.1 /ykj/index.php/Home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002500s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002500s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002501s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002501s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2016-09-24T15:38:30+08:00 ] 127.0.0.1 /ykj/index.php/Home/style/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+ERR: 无法加载控制器:Style
+
+[ 2016-09-24T15:38:35+08:00 ] 127.0.0.1 /ykj/index.php/Home/cate/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-24T15:38:35+08:00 ] 127.0.0.1 /ykj/index.php/Home/cate/style/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:style
+
+[ 2016-09-24T15:38:42+08:00 ] 127.0.0.1 /ykj/index.php/Home/article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012501s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-24T15:38:42+08:00 ] 127.0.0.1 /ykj/index.php/Home/article/style/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:style
+
+[ 2016-09-24T15:38:42+08:00 ] 127.0.0.1 /ykj/index.php/Home/article/style/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:style
+
+[ 2016-09-24T15:38:42+08:00 ] 127.0.0.1 /ykj/index.php/Home/article/style/post.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:style
+
+[ 2016-09-24T15:39:51+08:00 ] 127.0.0.1 /ykj/index.php/Home/article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002501s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002501s ]
+
+[ 2016-09-24T15:39:51+08:00 ] 127.0.0.1 /ykj/index.php/Home/article/style/post.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+ERR: 非法操作:style
+
+[ 2016-09-24T15:39:51+08:00 ] 127.0.0.1 /ykj/index.php/Home/article/style/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:style
+
+[ 2016-09-24T15:39:51+08:00 ] 127.0.0.1 /ykj/index.php/Home/article/style/post.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:style
+
+[ 2016-09-24T15:40:43+08:00 ] 127.0.0.1 /ykj/index.php/Home/cate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-24T15:40:43+08:00 ] 127.0.0.1 /ykj/index.php/Home/style/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Style
+
+[ 2016-09-24T15:40:47+08:00 ] 127.0.0.1 /ykj/index.php/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012501s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-24T15:40:47+08:00 ] 127.0.0.1 /ykj/index.php/Home/style/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Style
+
+[ 2016-09-24T15:45:54+08:00 ] 127.0.0.1 /ykj/index.php/Home/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022501s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002500s ]
+
+[ 2016-09-24T15:45:54+08:00 ] 127.0.0.1 /ykj/index.php/Home/style/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+ERR: 无法加载控制器:Style
+
+[ 2016-09-24T15:45:54+08:00 ] 127.0.0.1 /ykj/index.php/Home/style/post.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Style
+
+[ 2016-09-24T15:50:16+08:00 ] 127.0.0.1 /ykj/index.php/Home/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-24T15:50:16+08:00 ] 127.0.0.1 /ykj/index.php/Home/style/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+ERR: 无法加载控制器:Style
+
+[ 2016-09-24T15:50:16+08:00 ] 127.0.0.1 /ykj/index.php/Home/style/post.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Style
+
+[ 2016-09-24T15:53:19+08:00 ] 127.0.0.1 /ykj/index.php/Home/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-24T15:53:19+08:00 ] 127.0.0.1 /ykj/index.php/Home/style/post.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+ERR: 无法加载控制器:Style
+
+[ 2016-09-24T15:53:19+08:00 ] 127.0.0.1 /ykj/index.php/Home/style/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+ERR: 无法加载控制器:Style
+
+[ 2016-09-24T15:53:19+08:00 ] 127.0.0.1 /ykj/index.php/Home/style/post.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Style
+
+[ 2016-09-24T15:56:38+08:00 ] 127.0.0.1 /ykj/index.php/Home/cate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-24T15:56:38+08:00 ] 127.0.0.1 /ykj/index.php/Home/style/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Style
+
+[ 2016-09-24T15:56:42+08:00 ] 127.0.0.1 /ykj/index.php/Home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-24T15:56:42+08:00 ] 127.0.0.1 /ykj/index.php/Home/style/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Style
+
+[ 2016-09-24T16:10:17+08:00 ] 127.0.0.1 /ykj/index.php/Home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:10:17+08:00 ] 127.0.0.1 /ykj/index.php/Home/style/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Style
+
+[ 2016-09-24T16:11:50+08:00 ] 127.0.0.1 /ykj/index.php/Home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cateres C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-09-24T16:11:50+08:00 ] 127.0.0.1 /ykj/index.php/Home/style/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Style
+
+[ 2016-09-24T16:15:13+08:00 ] 127.0.0.1 /ykj/index.php/Home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cateres C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:15:13+08:00 ] 127.0.0.1 /ykj/index.php/Home/style/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Style
+
+[ 2016-09-24T16:16:27+08:00 ] 127.0.0.1 /ykj/index.php/Home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cateres C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:16:27+08:00 ] 127.0.0.1 /ykj/index.php/Home/style/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Style
+
+[ 2016-09-24T16:17:08+08:00 ] 127.0.0.1 /ykj/index.php/Home/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cateres C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:17:08+08:00 ] 127.0.0.1 /ykj/index.php/Home/style/post.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Style
+
+[ 2016-09-24T16:17:08+08:00 ] 127.0.0.1 /ykj/index.php/Home/style/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Style
+
+[ 2016-09-24T16:17:08+08:00 ] 127.0.0.1 /ykj/index.php/Home/style/post.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Style
+
+[ 2016-09-24T16:17:15+08:00 ] 127.0.0.1 /ykj/index.php/Home/cate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cateres C:\AppServ\www\ykj\Application\Runtime\Cache\Home\924808055458c07e9f4d1040ae4bac5b.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:17:15+08:00 ] 127.0.0.1 /ykj/index.php/Home/style/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Style
+
+[ 2016-09-24T16:18:01+08:00 ] 127.0.0.1 /ykj/index.php/Home/cate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cateres C:\AppServ\www\ykj\Application\Runtime\Cache\Home\924808055458c07e9f4d1040ae4bac5b.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:18:01+08:00 ] 127.0.0.1 /ykj/index.php/Home/style/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Style
+
+[ 2016-09-24T16:20:55+08:00 ] 127.0.0.1 /ykj/index.php/Home/cate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cateres C:\AppServ\www\ykj\Application\Runtime\Cache\Home\924808055458c07e9f4d1040ae4bac5b.php 第 43 行.
+NOTIC: [8] Undefined variable: list C:\AppServ\www\ykj\Application\Runtime\Cache\Home\924808055458c07e9f4d1040ae4bac5b.php 第 78 行.
+NOTIC: [8] Undefined variable: page C:\AppServ\www\ykj\Application\Runtime\Cache\Home\924808055458c07e9f4d1040ae4bac5b.php 第 87 行.
+NOTIC: [8] Undefined variable: cateres C:\AppServ\www\ykj\Application\Runtime\Cache\Home\924808055458c07e9f4d1040ae4bac5b.php 第 99 行.
+NOTIC: [8] Undefined variable: artres C:\AppServ\www\ykj\Application\Runtime\Cache\Home\924808055458c07e9f4d1040ae4bac5b.php 第 103 行.
+NOTIC: [8] Undefined variable: linkres C:\AppServ\www\ykj\Application\Runtime\Cache\Home\924808055458c07e9f4d1040ae4bac5b.php 第 109 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-24T16:21:05+08:00 ] 127.0.0.1 /ykj/index.php/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cateres C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: list C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 78 行.
+NOTIC: [8] Undefined variable: page C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 87 行.
+NOTIC: [8] Undefined variable: cateres C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 99 行.
+NOTIC: [8] Undefined variable: artres C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 103 行.
+NOTIC: [8] Undefined variable: linkres C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 109 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-24T16:23:14+08:00 ] 127.0.0.1 /ykj/index.php/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0240s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:23:14+08:00 ] 127.0.0.1 /ykj/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:23:55+08:00 ] 127.0.0.1 /ykj/index.php/Home/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_cate` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `cateid` = null ORDER BY id desc LIMIT 1' at line 1
+
+[ 2016-09-24T16:24:10+08:00 ] 127.0.0.1 /ykj/index.php/Home/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_cate` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `cateid` = null ORDER BY id desc LIMIT 1' at line 1
+
+[ 2016-09-24T16:24:10+08:00 ] 127.0.0.1 /ykj/index.php/Home/style/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Style
+
+[ 2016-09-24T16:24:14+08:00 ] 127.0.0.1 /ykj/index.php/Home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:24:14+08:00 ] 127.0.0.1 /ykj/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:24:21+08:00 ] 127.0.0.1 /ykj/index.php/Home/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_cate` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `cateid` = null ORDER BY id desc LIMIT 1' at line 1
+
+[ 2016-09-24T16:24:29+08:00 ] 127.0.0.1 /ykj/index.php/Home/cate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` WHERE `cateid` = 0 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE `cateid` = 0 ORDER BY time desc LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:24:39+08:00 ] 127.0.0.1 /ykj/index.php/Home/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `cateid` = null ORDER BY id desc LIMIT 1' at line 1
+
+[ 2016-09-24T16:24:41+08:00 ] 127.0.0.1 /ykj/index.php/Home/article/style/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+ERR: 非法操作:style
+
+[ 2016-09-24T16:24:41+08:00 ] 127.0.0.1 /ykj/index.php/Home/article/style/post.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+ERR: 非法操作:style
+
+[ 2016-09-24T16:24:47+08:00 ] 127.0.0.1 /ykj/index.php/Home/article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_cate` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `cateid` = null ORDER BY id desc LIMIT 1' at line 1
+
+[ 2016-09-24T16:26:31+08:00 ] 127.0.0.1 /ykj/index.php/Home/cate/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` WHERE `cateid` = 0 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `cateid` = 0 ORDER BY time desc LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-24T16:26:34+08:00 ] 127.0.0.1 /ykj/index.php/Home/Article/index/id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` WHERE `id` = 11 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE ( id<21 ) AND `cateid` = 11 ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE ( id>21 ) AND `cateid` = 11 ORDER BY id asc LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-24T16:26:34+08:00 ] 127.0.0.1 /ykj/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:29:02+08:00 ] 127.0.0.1 /ykj/index.php/Home/cate/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` WHERE `cateid` = 0 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `cateid` = 0 ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:29:08+08:00 ] 127.0.0.1 /ykj/index.php/Home/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `cateid` = null ORDER BY id desc LIMIT 1' at line 1
+
+[ 2016-09-24T16:34:00+08:00 ] 127.0.0.1 /ykj/index.php/Home/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0200s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `cateid` = 1 ORDER BY id desc LIMIT 1' at line 1
+
+[ 2016-09-24T16:34:19+08:00 ] 127.0.0.1 /ykj/index.php/Home/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `cateid` = null ORDER BY id desc LIMIT 1' at line 1
+
+[ 2016-09-24T16:34:20+08:00 ] 127.0.0.1 /ykj/index.php/Home/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_cate` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `cateid` = null ORDER BY id desc LIMIT 1' at line 1
+
+[ 2016-09-24T16:34:46+08:00 ] 127.0.0.1 /ykj/index.php/Home/cate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` WHERE `cateid` = 0 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE `cateid` = 0 ORDER BY time desc LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:37:27+08:00 ] 127.0.0.1 /ykj/index.php/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:37:27+08:00 ] 127.0.0.1 /ykj/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:37:37+08:00 ] 127.0.0.1 /ykj/index.php/Home/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_cate` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `cateid` = null ORDER BY id desc LIMIT 1' at line 1
+
+[ 2016-09-24T16:38:29+08:00 ] 127.0.0.1 /ykj/index.php/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:38:32+08:00 ] 127.0.0.1 /ykj/index.php/Home/Index/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 2,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:38:32+08:00 ] 127.0.0.1 /ykj/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:38:33+08:00 ] 127.0.0.1 /ykj/index.php/Home/Index/index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-24T16:38:34+08:00 ] 127.0.0.1 /ykj/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:38:35+08:00 ] 127.0.0.1 /ykj/index.php/Home/Index/index/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 6,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:38:41+08:00 ] 127.0.0.1 /ykj/index.php/Home/Cate/index/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` WHERE `cateid` = 7 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE `cateid` = 7 ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:38:42+08:00 ] 127.0.0.1 /ykj/index.php/Home/Cate/index/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` WHERE `cateid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `cateid` = 1 ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-09-24T16:38:42+08:00 ] 127.0.0.1 /ykj/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:38:44+08:00 ] 127.0.0.1 /ykj/index.php/Home/Cate/index/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` WHERE `cateid` = 8 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `cateid` = 8 ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:38:45+08:00 ] 127.0.0.1 /ykj/index.php/Home/Cate/index/id/9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` WHERE `cateid` = 9 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE `cateid` = 9 ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:38:45+08:00 ] 127.0.0.1 /ykj/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:38:46+08:00 ] 127.0.0.1 /ykj/index.php/Home/Cate/index/id/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` WHERE `cateid` = 10 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `cateid` = 10 ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:38:48+08:00 ] 127.0.0.1 /ykj/index.php/Home/Cate/index/id/11
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` WHERE `cateid` = 11 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `cateid` = 11 ORDER BY time desc LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-09-24T16:38:48+08:00 ] 127.0.0.1 /ykj/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:38:49+08:00 ] 127.0.0.1 /ykj/index.php/Home/Cate/index/id/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` WHERE `cateid` = 10 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `cateid` = 10 ORDER BY time desc LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:39:24+08:00 ] 127.0.0.1 /ykj/index.php/Home/Cate/index/id/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` WHERE `cateid` = 10 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `cateid` = 10 ORDER BY time desc LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:39:24+08:00 ] 127.0.0.1 /ykj/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:39:29+08:00 ] 127.0.0.1 /ykj/index.php/Home/Cate/index/id/11
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` WHERE `cateid` = 11 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE `cateid` = 11 ORDER BY time desc LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:39:29+08:00 ] 127.0.0.1 /ykj/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-09-24T16:39:30+08:00 ] 127.0.0.1 /ykj/index.php/Home/Cate/index/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` WHERE `cateid` = 7 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `cateid` = 7 ORDER BY time desc LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:39:36+08:00 ] 127.0.0.1 /ykj/index.php/Home/Cate/index/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` WHERE `cateid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `cateid` = 1 ORDER BY time desc LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-24T16:39:36+08:00 ] 127.0.0.1 /ykj/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:39:46+08:00 ] 127.0.0.1 /ykj/index.php/Home/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `cateid` = null ORDER BY id desc LIMIT 1' at line 1
+
+[ 2016-09-24T16:39:55+08:00 ] 127.0.0.1 /ykj/index.php/Home/article/index/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE ( id<1 ) AND `cateid` = null ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE ( id>1 ) AND `cateid` = null ORDER BY id asc LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:39:55+08:00 ] 127.0.0.1 /ykj/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:40:02+08:00 ] 127.0.0.1 /ykj/index.php/Home/article/index/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_cate` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE ( id<2 ) AND `cateid` = null ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE ( id>2 ) AND `cateid` = null ORDER BY id asc LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:40:02+08:00 ] 127.0.0.1 /ykj/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:40:05+08:00 ] 127.0.0.1 /ykj/index.php/Home/article/index/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_cate` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE ( id<3 ) AND `cateid` = null ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE ( id>3 ) AND `cateid` = null ORDER BY id asc LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:40:05+08:00 ] 127.0.0.1 /ykj/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:40:09+08:00 ] 127.0.0.1 /ykj/index.php/Home/article/index/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_cate` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE ( id<4 ) AND `cateid` = null ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE ( id>4 ) AND `cateid` = null ORDER BY id asc LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:40:09+08:00 ] 127.0.0.1 /ykj/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:40:24+08:00 ] 127.0.0.1 /ykj/index.php/Home/Cate/index/id/11
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` WHERE `cateid` = 11 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `cateid` = 11 ORDER BY time desc LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:40:24+08:00 ] 127.0.0.1 /ykj/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T16:40:28+08:00 ] 127.0.0.1 /ykj/index.php/Home/Article/index/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_cate` WHERE `id` = 10 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE ( id<24 ) AND `cateid` = 10 ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE ( id>24 ) AND `cateid` = 10 ORDER BY id asc LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 48 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-09-24T16:40:28+08:00 ] 127.0.0.1 /ykj/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T17:03:22+08:00 ] 127.0.0.1 /ykj/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T17:03:22+08:00 ] 127.0.0.1 /ykj/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T17:03:24+08:00 ] 127.0.0.1 /ykj/index.php/Home/Cate/index/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` WHERE `cateid` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` WHERE `cateid` = 1 ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T17:03:24+08:00 ] 127.0.0.1 /ykj/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T17:06:04+08:00 ] 127.0.0.1 /ykj/index.php/Home/Cate/index/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` WHERE `cateid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ykj_article` WHERE `cateid` = 1 ORDER BY time desc LIMIT 0,2   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-24T17:06:04+08:00 ] 127.0.0.1 /ykj/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY sort desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_article` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_article` ORDER BY time desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+NOTIC: [8] Undefined variable: current C:\AppServ\www\ykj\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

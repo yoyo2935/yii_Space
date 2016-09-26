@@ -1,0 +1,10 @@
+<div class="topbar">
+	<div class="inner">
+		<a class="logo" href="http://yispace.net" title="意空间阅读网_美文网_美文欣赏_经典美文_励志文章_优美散文">意空间阅读网</a>
+		<ul class="nav">
+			<volist name="cateres" id="vo">
+			<li <if condition="$current eq $vo['id']">class='current-menu-item'</if> ><a href="__MODULE__/Cate/index/id/{$vo.id}">{$vo.catename}</a></li>
+			</volist>
+		</ul>
+	</div>
+</div>
